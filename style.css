@@ -1,0 +1,14 @@
+#bedroom
+{
+    width: 30%; height: 5%; font-size: auto; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#kt
+{
+    width: 30%; height: 5%; font-size: auto; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#back
+{
+    background-color:red; width: 10%; height: 4%; font-size: 100%; border-radius: 15%; float:right; font-family:Georgia, 'Times New Roman', Times, serif;  
+}
